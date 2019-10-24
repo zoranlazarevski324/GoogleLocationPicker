@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">gmap</string>
+    <string name="geo_api_key">geo api key</string>
+    <string-array name="placetypes">
+        <item>Bakery</item>
+        <item>Bar</item>
+        <item>Beauty Salon</item>
+        <item>Cafe</item>
+        <item>Casino</item>
+        <item>Clothing Store</item>
+        <item>Department Store</item>
+        <item>Furniture Store</item>
+        <item>Hardware Store</item>
+        <item>Jewelery Store</item>
+        <item>Liquor Store</item>
+        <item>Meal Takeaways</item>
+        <item>Restaurant</item>
+        <item>Store</item>
+    </string-array>
+</resources>
